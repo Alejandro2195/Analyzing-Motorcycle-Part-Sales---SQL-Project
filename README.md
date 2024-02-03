@@ -1,4 +1,4 @@
-# Analyzing-Motorcycle-Part-Sales---SQL-Project
+# Analyzing Motorcycle Part Sales - SQL Project
 You're working for a company that sells motorcycle parts, and they've asked with some help in analyzing their sales data!
 
 They operate three warehouses in the area, selling both retail and wholesale. They offer a variety of parts and accept credit card, cash, and bank transfer as payment methods. However, each payment type incurs a different fee.
